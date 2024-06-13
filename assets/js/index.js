@@ -106,10 +106,10 @@ function animate_hidden_content(hidden_content){
 $(document).ready(function () {
   $('#meta-desc').attr('content', `Web home for ${project_name} @ ${conference_details[0]}`);
   $('#title').html(project_name);
-  $('#project-name').html(`${project_name} @${conference_details[0].split(' ').join('')}`)
+  $('#project-name').html(`${project_name}`)
   $('#conference-details').html(`
   <a href="${conference_details[1]}" target="_blank">
-  <img src="${conference_details[3]}" width="300px" height="300px">
+    CORL 2024
   </a>`)
   $('#workshop-date').html(workshop_date)
 
