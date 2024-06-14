@@ -6,9 +6,9 @@ const workshop_date = `November 9, 2024`
 const talk_speaker_details = {
   'df': ['Dieter Fox', './assets/images/talks/dieter_fox.jpg', 'Professor', 'University of Washington', 'https://homes.cs.washington.edu/~fox/', 'Policy Representation for Robot Manipulation', ''],
   'ke': ['Kiana Ehsani', './assets/images/talks/kiana_ehsani.jpg', 'Senior Research Scientist', 'Allen Institute for Artificial Intelligence', 'https://ehsanik.github.io/Home.html', 'Neural Object Representations for Grasping and Manipulation', ''],
-  'ag': ['Animesh Garg', './assets/images/talks/animesh_garg.jpg', 'Associate Professor', 'Georgia Tech', 'https://animesh.garg.tech/', '', ''],
+  'ag': ['Animesh Garg', './assets/images/talks/animesh_garg.jpg', 'Assistant Professor', 'Georgia Tech', 'https://animesh.garg.tech/', '', ''],
   'wm': ['Wojciech Matusik', './assets/images/talks/wojciech_matusik.jpg', 'Professor', 'MIT', 'https://cdfg.mit.edu/wojciech', '', ''],
-  'ss': ['Shuran Song', './assets/images/talks/shuran_song.jpg', 'Associate Professor', 'Stanford University', 'https://shurans.github.io/', 'Towards Home Robots: Open Vocabulary Mobile Manipulation in Unstructured Environments', ''],
+  'ss': ['Shuran Song', './assets/images/talks/shuran_song.jpg', 'Assistant Professor', 'Stanford University', 'https://shurans.github.io/', 'Towards Home Robots: Open Vocabulary Mobile Manipulation in Unstructured Environments', ''],
   'yl': ['Youngwoon Lee', './assets/images/talks/youngwoon_lee.jpg', 'Assistant Professor', 'Yonsei University', 'https://youngwoon.github.io/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
   'sj': ['Stephen James', './assets/images/talks/stephen_james.jpg', '', 'Dyson Robotics', 'https://stepjam.github.io/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
 }
