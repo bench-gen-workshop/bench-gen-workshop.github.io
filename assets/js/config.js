@@ -11,6 +11,7 @@ const talk_speaker_details = {
   'ss': ['Shuran Song', './assets/images/talks/shuran_song.jpg', 'Assistant Professor', 'Stanford University', 'https://shurans.github.io/', 'Towards Home Robots: Open Vocabulary Mobile Manipulation in Unstructured Environments', ''],
   'yl': ['Youngwoon Lee', './assets/images/talks/youngwoon_lee.jpg', 'Assistant Professor', 'Yonsei University', 'https://youngwoon.github.io/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
   'sj': ['Stephen James', './assets/images/talks/stephen_james.jpg', '', 'Dyson Robotics', 'https://stepjam.github.io/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
+  'ds': ['Dorsa Sadigh', './assets/images/talks/dorsa_sadigh.jpeg', 'Assistant Professor', 'Stanford University', 'https://dorsa.fyi/', 'Nonparametric Belief Propagation: Differentiable, Diagnosable, and Decisive', ''],
 }
 
 const organizers_details = [
