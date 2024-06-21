@@ -17,9 +17,10 @@ const talk_speaker_details = {
 const organizers_details = [
   ['Ishika Singh', 'assets/images/organizers/ishika_singh.jpg', 'PhD Student', 'University of Southern California', 'https://ishikasingh.github.io/'],
   ['Jiafei Duan', 'assets/images/organizers/jiafei_duan.png', 'PhD Student', 'University of Washington', 'https://duanjiafei.com/'],
-  ['Ranjay Krishna', 'assets/images/organizers/ranjay_krishna.png', 'Assistant Professor', 'University of Washington', 'https://www.ranjaykrishna.com/index.html'],
-  ['Yunsheng Tian', 'assets/images/organizers/yunsheng_tian.jpg', 'PhD Student', 'MIT', 'https://www.yunshengtian.com/'],
   ['Wilbert Pumacay', 'assets/images/organizers/wilbert_pumacay.png', 'MSc Student', 'Universidad Catolica San Pablo', 'https://wpumacay.github.io'],
+  ['Yunsheng Tian', 'assets/images/organizers/yunsheng_tian.jpg', 'PhD Student', 'MIT', 'https://www.yunshengtian.com/'],
+  ['Beining Han', 'assets/images/organizers/beining_han.jpeg', 'PhD Student', 'Princeton University', 'https://scholar.google.com/citations?user=LVjU7xIAAAAJ&hl=en'],
+  ['Ranjay Krishna', 'assets/images/organizers/ranjay_krishna.png', 'Assistant Professor', 'University of Washington', 'https://www.ranjaykrishna.com/index.html'],
 ]
 
 const accepted_presentations = [
